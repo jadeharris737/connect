@@ -1,0 +1,324 @@
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\major_nav.exe.config
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\major_nav.exe
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\major_nav.pdb
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.Properties.Resources.resources
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.csproj.GenerateResource.cache
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.csproj.CopyComplete
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.exe
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.pdb
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.frm_nav.resources
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.csprojAssemblyReference.cache
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.frm_profile.resources
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.frm_loadScreen.resources
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.frm_login.resources
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\alphablendtextbox.dll
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.frm_forgetPassword.resources
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.frm_events.resources
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.frm_friends.resources
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.frm_budget.resources
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.frm_settings.resources
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\Google.Protobuf.dll
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\MySql.Data.dll
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\System.Buffers.dll
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\System.Memory.dll
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\Zstandard.Net.dll
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\Google.Protobuf.xml
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\MySql.Data.xml
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\System.Buffers.xml
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\System.Memory.xml
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jade\source\repos\major_nav\major_nav\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jade\source\repos\major_nav\major_nav\obj\Debug\major_nav.frm_newPassword.resources
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\major_nav.exe.config
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\major_nav.exe
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\major_nav.pdb
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\Google.Protobuf.dll
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\MySql.Data.dll
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\System.Buffers.dll
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\System.Memory.dll
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\Zstandard.Net.dll
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\Google.Protobuf.xml
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\MySql.Data.xml
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\System.Buffers.xml
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\System.Memory.xml
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jade\Desktop\major_nav\major_nav\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.csprojAssemblyReference.cache
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.frm_newPassword.resources
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.frm_forgetPassword.resources
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.frm_nav.resources
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.frm_events.resources
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.frm_friends.resources
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.frm_budget.resources
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.frm_settings.resources
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.frm_profile.resources
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.frm_loadScreen.resources
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.frm_login.resources
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.Properties.Resources.resources
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.csproj.GenerateResource.cache
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.csproj.CopyComplete
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.exe
+C:\Users\Jade\Desktop\major_nav\major_nav\obj\Debug\major_nav.pdb
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\major_nav.exe.config
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\major_nav.exe
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\major_nav.pdb
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\Google.Protobuf.dll
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\MySql.Data.dll
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\System.Buffers.dll
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\System.Memory.dll
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\Zstandard.Net.dll
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\Google.Protobuf.xml
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\MySql.Data.xml
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\System.Buffers.xml
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\System.Memory.xml
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.csprojAssemblyReference.cache
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.frm_newPassword.resources
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.frm_forgetPassword.resources
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.frm_nav.resources
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.frm_events.resources
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.frm_friends.resources
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.frm_budget.resources
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.frm_settings.resources
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.frm_profile.resources
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.frm_loadScreen.resources
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.frm_login.resources
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.Properties.Resources.resources
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.csproj.GenerateResource.cache
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.csproj.CopyComplete
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.exe
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.pdb
+C:\Users\Jade\Desktop\!!!Currnet Major\major_nav\obj\Debug\major_nav.frm_resetPassword.resources
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\major_nav.exe.config
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\major_nav.exe
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\major_nav.pdb
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\Google.Protobuf.dll
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\MySql.Data.dll
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\System.Buffers.dll
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\System.Memory.dll
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\Zstandard.Net.dll
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\Google.Protobuf.xml
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\MySql.Data.xml
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\System.Buffers.xml
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\System.Memory.xml
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jade\Desktop\Preserve1\major_nav\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.csprojAssemblyReference.cache
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.frm_resetPassword.resources
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.frm_newPassword.resources
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.frm_forgetPassword.resources
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.frm_nav.resources
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.frm_events.resources
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.frm_friends.resources
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.frm_budget.resources
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.frm_settings.resources
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.frm_profile.resources
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.frm_loadScreen.resources
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.frm_login.resources
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.Properties.Resources.resources
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.csproj.GenerateResource.cache
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.csproj.CopyComplete
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.exe
+C:\Users\Jade\Desktop\Preserve1\major_nav\obj\Debug\major_nav.pdb
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\major_nav.exe.config
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\major_nav.exe
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\major_nav.pdb
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\Google.Protobuf.dll
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\MySql.Data.dll
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\System.Buffers.dll
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\System.Memory.dll
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\Zstandard.Net.dll
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\Google.Protobuf.xml
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\MySql.Data.xml
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\System.Buffers.xml
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\System.Memory.xml
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jade\Desktop\merge\major_nav\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.csprojAssemblyReference.cache
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_resetPassword.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_newPassword.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_forgetPassword.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_nav.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_events.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_friends.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_settings.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_loadScreen.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_login.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.Properties.Resources.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.csproj.GenerateResource.cache
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.csproj.CopyComplete
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.exe
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.pdb
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_newEvent.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_invitation.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_eventsInvited.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_myEvents.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_invitationVote.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_viewing.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_managing.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_newInvites.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_inviteFriend.resources
+C:\Users\Jade\Desktop\merge\major_nav\obj\Debug\major_nav.frm_equalVotes.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\major_nav.exe.config
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\major_nav.exe
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\major_nav.pdb
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\Google.Protobuf.dll
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\MySql.Data.dll
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\System.Buffers.dll
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\System.Memory.dll
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\Zstandard.Net.dll
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\Google.Protobuf.xml
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\MySql.Data.xml
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\System.Buffers.xml
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\System.Memory.xml
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jade\Desktop\major_draft\major_nav\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.csprojAssemblyReference.cache
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_equalVotes.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_invitation.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_invitationVote.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_inviteFriend.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_myEvents.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_events.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_managing.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_viewing.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_newEvent.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_newPassword.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_forgetPassword.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_nav.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_eventsInvited.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_friends.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_settings.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_loadScreen.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_login.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.Properties.Resources.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.csproj.GenerateResource.cache
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.csproj.CopyComplete
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.exe
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.pdb
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_welcomeNewUser.resources
+C:\Users\Jade\Desktop\major_draft\major_nav\obj\Debug\major_nav.frm_font.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\major_nav.exe.config
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\major_nav.exe
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\major_nav.pdb
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\Google.Protobuf.dll
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\MySql.Data.dll
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\System.Buffers.dll
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\System.Memory.dll
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\Zstandard.Net.dll
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\Google.Protobuf.xml
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\MySql.Data.xml
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\System.Buffers.xml
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\System.Memory.xml
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.csprojAssemblyReference.cache
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_equalVotes.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_font.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_welcomeNewUser.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_invitation.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_invitationVote.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_inviteFriend.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_myEvents.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_events.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_managing.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_viewing.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_newEvent.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_newPassword.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_forgetPassword.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_nav.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_eventsInvited.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_friends.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_settings.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_loadScreen.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.frm_login.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.Properties.Resources.resources
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.csproj.GenerateResource.cache
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.csproj.CopyComplete
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.exe
+C:\Users\Jade\Desktop\JadeHarris_SDD1\major_nav\obj\Debug\major_nav.pdb
