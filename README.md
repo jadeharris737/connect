@@ -13,4 +13,4 @@ NuGet packages required:
 - MySql.Data.8.0.25
 
 # documentation
-Project development report completed with the project available at: https://jadeharris737.github.io/images/connectPdf.pdf
+Project development report completed with the project available at: <a href="https://jadeharris737.github.io/images/connectPdf.pdf" target="_blank"></a>
