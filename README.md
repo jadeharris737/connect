@@ -5,7 +5,7 @@ Not currently maintained or updated since 2021.
 
 # comments
 EC2 details (user address, userid, password and database name) have been removed and the connection string (cs) is an empty string. <b>Therefore, this application will produce a runtime error attempting to connect to the MySQL database and not work</b>. It is recommended to view the user documentation provided in the software documentation <a href="https://jadeharris737.github.io/images/userManual.pdf" target="_blank">here</a>. <i>(This will open the documentation in this current tab).</i><br /><br />
-Naming conventions do not follow lower and upper camelcase structure followed now. Also, in retrospect meaningful identifiers would have been used.
+Naming conventions do not follow lower and upper camelcase structure followed now. <br />In retrospect, meaningful identifiers would have been used.
 
 # startup
 Upload files into Visual Studio 2019. The .vs file should generate appropriately. <br />
